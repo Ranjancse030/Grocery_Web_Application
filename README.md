@@ -2,7 +2,7 @@
 
 Welcome to the MERN Grocery Shop Project! This project is built using the MERN (MongoDB, Express, React, Node.js) stack and incorporates various features like user authentication, product listings, reviews, and more.
 
-# Demo video: 
+**Demo video:**  
 
 ## 📋 Features
 
